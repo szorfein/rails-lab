@@ -1,3 +1,7 @@
 # rails-lab
 
-Experimentation on ruby &amp; rail
+Experimentation on mongoid, ruby &amp; rail 
+
+# Project build with
+
+    rails new ./ --skip-active-record
